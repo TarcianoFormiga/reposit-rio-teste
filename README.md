@@ -1,8 +1,8 @@
 # repositorio-teste
-Repositório para testes de comandos do curso
+1. Repositório para testes de comandos do curso
 
-fazendo alterações para realizar testes e comandos do git e github para o nosso repositório.
+2. fazendo alterações para realizar testes e comandos do git e github para o nosso repositório.
 
-alterações para teste de mais comandos
+3. alterações para teste de mais comandos
 
-realizando novas alterações para teste de novos comandos BRANCH
+4. realizando novas alterações para teste de novos comandos BRANCH
